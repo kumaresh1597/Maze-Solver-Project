@@ -1,5 +1,6 @@
 # Maze-Solver-Project
-This is a window based mini project created using Java swing which applies Depth first search Algorithim to find a path to reach the destination.
+This is a window based mini project created using Java swing which applies Depth first search Algorithim (DFS) to find a path to reach the destination.
+And also created the same with Breadth first search Algorithm (BFS).
 
 # Technology and tools used
 Java,Java Swing, DataStructure and Algorithms,VS code
